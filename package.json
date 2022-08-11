@@ -2,7 +2,18 @@
   "name": "broken-dreams",
   "displayName": "Broken Dreams",
   "description": "A collection of dark themes for VS Code",
-  "version": "0.0.1",
+  "version": "0.1.0",
+  "publisher": "emanuelpna",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Emanuelpna/broken-dreams-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "dark blue theme",
+    "dark purple theme"
+  ],
   "engines": {
     "vscode": "^1.70.0"
   },
