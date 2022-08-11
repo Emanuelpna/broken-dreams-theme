@@ -1,0 +1,26 @@
+{
+  "name": "broken-dreams",
+  "displayName": "Broken Dreams",
+  "description": "A collection of dark themes for VS Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Broken Dreams Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/broken-dreams-blue-color-theme.json"
+      },
+      {
+        "label": "Broken Dreams Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/broken-dreams-purple-color-theme.json"
+      }
+    ]
+  }
+}
