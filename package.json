@@ -17,6 +17,8 @@
   "engines": {
     "vscode": "^1.70.0"
   },
+  "homepage": "https://github.com/Emanuelpna/broken-dreams-theme",
+  "icon": "assets/logo.png",
   "categories": [
     "Themes"
   ],
